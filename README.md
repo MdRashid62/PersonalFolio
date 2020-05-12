@@ -8,7 +8,7 @@
 ⚡️ Optimized with Webpack\
 ⚡️ Well organized documentation
 
-To view a live example, **[click here](https://abc.com/)**
+To view a live example, **[click here](https://iamrashid.netlify.app/)**
 
 
 ## Technologies used 🛠️
