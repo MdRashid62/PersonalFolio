@@ -1,4 +1,4 @@
-## Features 000000000
+## Features 00000000
 
 ⚡️ Modern UI Design + Reveal Animations\
 ⚡️ One Page Layout\
